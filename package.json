@@ -1,0 +1,30 @@
+{
+  "name": "atmamarket",
+  "version": "1.0.0",
+  "description": "A clothing shop with 3d modeling to preview products",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OIO-LUIS/grupo_10_atmaMarket.git"
+  },
+  "keywords": [
+    "shirts",
+    "clothihg",
+    "purpose",
+    "footprint",
+    "psychedelic"
+  ],
+  "author": "Luis Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OIO-LUIS/grupo_10_atmaMarket/issues"
+  },
+  "homepage": "https://github.com/OIO-LUIS/grupo_10_atmaMarket#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
